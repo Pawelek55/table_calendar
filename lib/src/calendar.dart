@@ -214,6 +214,7 @@ class TableCalendar extends StatefulWidget {
 }
 
 class _TableCalendarState extends State<TableCalendar> with SingleTickerProviderStateMixin {
+  print("Testowy napis");
   @override
   void initState() {
     super.initState();
